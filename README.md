@@ -1,2 +1,2 @@
 # frontendcore
-Old frontendcore repositoyr
+Moved to https://github.com/Frontendcore/frontendcore
